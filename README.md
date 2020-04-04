@@ -1,1 +1,1 @@
-# wa304-i-305
+Front-end kod za Web aplikacije
